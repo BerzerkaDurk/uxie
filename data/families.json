@@ -1,0 +1,2302 @@
+[
+    {
+        "family": "FAMILY_BULBASAUR",
+        "candy_per_xl": 100,
+        "mega_form": "VENUSAUR"
+    },
+    {
+        "family": "FAMILY_CHARMANDER",
+        "candy_per_xl": 100,
+        "mega_form": "CHARIZARD"
+    },
+    {
+        "family": "FAMILY_SQUIRTLE",
+        "candy_per_xl": 100,
+        "mega_form": "BLASTOISE"
+    },
+    {
+        "family": "FAMILY_CATERPIE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_WEEDLE",
+        "candy_per_xl": 100,
+        "mega_form": "BEEDRILL"
+    },
+    {
+        "family": "FAMILY_PIDGEY",
+        "candy_per_xl": 100,
+        "mega_form": "PIDGEOT"
+    },
+    {
+        "family": "FAMILY_RATTATA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SPEAROW",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_EKANS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PIKACHU",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SANDSHREW",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_NIDORAN_FEMALE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_NIDORAN_MALE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CLEFAIRY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_VULPIX",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_JIGGLYPUFF",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ZUBAT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ODDISH",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PARAS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_VENONAT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DIGLETT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MEOWTH",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PSYDUCK",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MANKEY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_GROWLITHE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_POLIWAG",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ABRA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MACHOP",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_BELLSPROUT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TENTACOOL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_GEODUDE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PONYTA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SLOWPOKE",
+        "candy_per_xl": 100,
+        "mega_form": "SLOWBRO"
+    },
+    {
+        "family": "FAMILY_MAGNEMITE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_FARFETCHD",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DODUO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SEEL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_GRIMER",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SHELLDER",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_GASTLY",
+        "candy_per_xl": 100,
+        "mega_form": "GENGAR"
+    },
+    {
+        "family": "FAMILY_ONIX",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DROWZEE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_KRABBY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_VOLTORB",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_EXEGGCUTE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CUBONE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_LICKITUNG",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_KOFFING",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_RHYHORN",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CHANSEY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TANGELA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_KANGASKHAN",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_HORSEA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_GOLDEEN",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_STARYU",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MR_MIME",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SCYTHER",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_JYNX",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ELECTABUZZ",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MAGMAR",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PINSIR",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TAUROS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MAGIKARP",
+        "candy_per_xl": 100,
+        "mega_form": "GYARADOS"
+    },
+    {
+        "family": "FAMILY_LAPRAS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DITTO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_EEVEE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PORYGON",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_OMANYTE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_KABUTO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_AERODACTYL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SNORLAX",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ARTICUNO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ZAPDOS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MOLTRES",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DRATINI",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MEWTWO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MEW",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CHIKORITA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CYNDAQUIL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TOTODILE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SENTRET",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_HOOTHOOT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_LEDYBA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SPINARAK",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CHINCHOU",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TOGEPI",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_NATU",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MAREEP",
+        "candy_per_xl": 100,
+        "mega_form": "AMPHAROS"
+    },
+    {
+        "family": "FAMILY_MARILL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SUDOWOODO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_HOPPIP",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_AIPOM",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SUNKERN",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_YANMA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_WOOPER",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MURKROW",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MISDREAVUS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_UNOWN",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_WOBBUFFET",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_GIRAFARIG",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PINECO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DUNSPARCE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_GLIGAR",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SNUBBULL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_QWILFISH",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SHUCKLE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_HERACROSS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SNEASEL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TEDDIURSA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SLUGMA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SWINUB",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CORSOLA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_REMORAID",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DELIBIRD",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MANTINE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SKARMORY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_HOUNDOUR",
+        "candy_per_xl": 100,
+        "mega_form": "HOUNDOOM"
+    },
+    {
+        "family": "FAMILY_PHANPY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_STANTLER",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SMEARGLE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TYROGUE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MILTANK",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_RAIKOU",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ENTEI",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SUICUNE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_LARVITAR",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_LUGIA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_HO_OH",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CELEBI",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TREECKO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TORCHIC",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MUDKIP",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_POOCHYENA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ZIGZAGOON",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_WURMPLE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_LOTAD",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SEEDOT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TAILLOW",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_WINGULL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_RALTS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SURSKIT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SHROOMISH",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SLAKOTH",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_NINCADA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_WHISMUR",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MAKUHITA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_NOSEPASS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SKITTY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SABLEYE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MAWILE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ARON",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MEDITITE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ELECTRIKE",
+        "candy_per_xl": 100,
+        "mega_form": "MANECTRIC"
+    },
+    {
+        "family": "FAMILY_PLUSLE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MINUN",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_VOLBEAT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ILLUMISE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ROSELIA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_GULPIN",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CARVANHA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_WAILMER",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_NUMEL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TORKOAL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SPOINK",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SPINDA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TRAPINCH",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CACNEA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SWABLU",
+        "candy_per_xl": 100,
+        "mega_form": "ALTARIA"
+    },
+    {
+        "family": "FAMILY_ZANGOOSE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SEVIPER",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_LUNATONE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SOLROCK",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_BARBOACH",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CORPHISH",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_BALTOY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_LILEEP",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ANORITH",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_FEEBAS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CASTFORM",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_KECLEON",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SHUPPET",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DUSKULL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TROPIUS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CHIMECHO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ABSOL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SNORUNT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SPHEAL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CLAMPERL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_RELICANTH",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_LUVDISC",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_BAGON",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_BELDUM",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_REGIROCK",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_REGICE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_REGISTEEL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_LATIAS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_LATIOS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_KYOGRE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_GROUDON",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_RAYQUAZA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_JIRACHI",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DEOXYS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TURTWIG",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CHIMCHAR",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PIPLUP",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_STARLY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_BIDOOF",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_KRICKETOT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SHINX",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CRANIDOS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SHIELDON",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_BURMY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_COMBEE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PACHIRISU",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_BUIZEL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CHERUBI",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SHELLOS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DRIFLOON",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_BUNEARY",
+        "candy_per_xl": 100,
+        "mega_form": "LOPUNNY"
+    },
+    {
+        "family": "FAMILY_GLAMEOW",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_STUNKY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_BRONZOR",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CHATOT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SPIRITOMB",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_GIBLE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_LUCARIO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_HIPPOPOTAS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SKORUPI",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CROAGUNK",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CARNIVINE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_FINNEON",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SNOVER",
+        "candy_per_xl": 100,
+        "mega_form": "ABOMASNOW"
+    },
+    {
+        "family": "FAMILY_ROTOM",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_UXIE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MESPRIT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_AZELF",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DIALGA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PALKIA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_HEATRAN",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_REGIGIGAS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_GIRATINA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CRESSELIA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PHIONE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MANAPHY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DARKRAI",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SHAYMIN",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ARCEUS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_VICTINI",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SNIVY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TEPIG",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_OSHAWOTT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PATRAT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_LILLIPUP",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PURRLOIN",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PANSAGE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PANSEAR",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PANPOUR",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MUNNA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PIDOVE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_BLITZLE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ROGGENROLA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_WOOBAT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DRILBUR",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_AUDINO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TIMBURR",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TYMPOLE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_THROH",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SAWK",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SEWADDLE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_VENIPEDE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_COTTONEE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PETILIL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_BASCULIN",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SANDILE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DARUMAKA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MARACTUS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DWEBBLE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SCRAGGY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SIGILYPH",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_YAMASK",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TIRTOUGA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ARCHEN",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TRUBBISH",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ZORUA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MINCCINO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_GOTHITA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SOLOSIS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DUCKLETT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_VANILLITE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DEERLING",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_EMOLGA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_KARRABLAST",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_FOONGUS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_FRILLISH",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ALOMOMOLA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_JOLTIK",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_FERROSEED",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_KLINK",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TYNAMO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ELGYEM",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_LITWICK",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_AXEW",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CUBCHOO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CRYOGONAL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SHELMET",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_STUNFISK",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MIENFOO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DRUDDIGON",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_GOLETT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PAWNIARD",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_BOUFFALANT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_RUFFLET",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_VULLABY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_HEATMOR",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DURANT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DEINO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_LARVESTA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_COBALION",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TERRAKION",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_VIRIZION",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TORNADUS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_THUNDURUS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_RESHIRAM",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ZEKROM",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_LANDORUS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_KYUREM",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_KELDEO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MELOETTA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_GENESECT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CHESPIN",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_FENNEKIN",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_FROAKIE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_BUNNELBY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_FLETCHLING",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SCATTERBUG",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_LITLEO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_FLABEBE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SKIDDO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PANCHAM",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_FURFROU",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ESPURR",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_HONEDGE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SPRITZEE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SWIRLIX",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_INKAY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_BINACLE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_SKRELP",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CLAUNCHER",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_HELIOPTILE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_TYRUNT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_AMAURA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_HAWLUCHA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DEDENNE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_CARBINK",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_GOOMY",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_KLEFKI",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PHANTUMP",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_PUMPKABOO",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_BERGMITE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_NOIBAT",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_XERNEAS",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_YVELTAL",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_ZYGARDE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_DIANCIE",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_HOOPA",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_VOLCANION",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 722,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 725,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 728,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 731,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 734,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 736,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 739,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 742,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 744,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 746,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 747,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 749,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 751,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 753,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 755,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 757,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 759,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 761,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 764,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 765,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 766,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 767,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 769,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 771,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 772,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 774,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 775,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 776,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 777,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 778,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 779,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 780,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 781,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 782,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 785,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 786,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 787,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 788,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 789,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 793,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 794,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 795,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 796,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 797,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 798,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 799,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 800,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 801,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 802,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 803,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 805,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 806,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 807,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": "FAMILY_MELTAN",
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 810,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 813,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 816,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 819,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 821,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 824,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 827,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 829,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 831,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 833,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 835,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 837,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 840,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 843,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 845,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 846,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 848,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 850,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 852,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 854,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 856,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 859,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 868,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 870,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 871,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 872,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 874,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 875,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 876,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 877,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 878,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 880,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 881,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 882,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 883,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 884,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 885,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 888,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 889,
+        "candy_per_xl": 100,
+        "mega_form": null
+    },
+    {
+        "family": 890,
+        "candy_per_xl": 100,
+        "mega_form": null
+    }
+]
